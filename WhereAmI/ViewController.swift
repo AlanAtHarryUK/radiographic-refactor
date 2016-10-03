@@ -36,6 +36,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
         // 
         // set collecting flag to false to stop location data collection
         // set to true to collect data and restart collection
+        //
         if (collectData) {
             
             collectData = false
